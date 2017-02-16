@@ -11,4 +11,7 @@ class ProblemSolver
   def solve_problem1
   end
 
+  def solve_problem2
+  end
+
 end
